@@ -1,2 +1,3 @@
-# sequences
-Just some sequences
+# Python Sequences
+
+Simple script in python
